@@ -17,7 +17,7 @@
         sync-j="16" />
 
     <remote name="los"
-        fetch="https://https://github.com/LineageOS"
+        fetch="https://github.com/LineageOS"
         sync-j="16" />
 
     <!-- general -->
