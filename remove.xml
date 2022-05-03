@@ -50,7 +50,6 @@
   <remove-project name="platform/bootable/recovery" />
 
   <!-- External repos -->
-  <remove-project name="platform/external/tinycompress" />
 
   <!-- Hardware repos -->
   <remove-project name="platform/hardware/qcom/camera" />
