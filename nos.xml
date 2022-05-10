@@ -6,7 +6,7 @@
         fetch="https://github.com/" />
 
     <remote name="nos"
-        fetch="https://github.com/nitrogen-project"
+        fetch="https://github.com/NOSME"
         sync-j="16" />
 
     <remote name="nos2"
@@ -26,7 +26,7 @@
         sync-j="16" />
 
     <!-- general -->
-    <project path="build/make" name="android_build_make" remote="nos-vayu" revision="12" >
+    <project path="build/make" name="android_build_make" remote="nos" revision="12" >
         <copyfile src="core/root.mk" dest="Makefile" />
         <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
         <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
