@@ -41,6 +41,7 @@
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
 
+    <project path="art" name="android_art" remote="nos" revision="12" />
     <project path="bionic" name="android_bionic" remote="nos" revision="12" />
     <project path="bootable/recovery" name="android_bootable_recovery" remote="nos" revision="12" />
 
