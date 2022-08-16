@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Github remote -->
+    <remote name="github"
+        fetch="https://github.com/" />
+
+    <remote name="nos"
+        fetch="https://github.com/NOSME"
+        revision="13"
+        sync-j="16" />
+
+    <remote name="nos2"
+        fetch="https://bitbucket.org/nitrogen-project"
+        sync-j="16" />
+
+    <remote name="pixel-gitlab-self-hosted"
+        fetch="https://gitlab.pixelexperience.org/android"
+        revision="twelve" />
+
+    <remote name="nos-vayu"
+        fetch="https://github.com/NitrogenOS-vayu"
+        sync-j="16" />
+
+    <remote name="los"
+        fetch="https://github.com/LineageOS"
+        sync-j="16" />
+
+
+  <!--<include name="snippets/remove.xml" />
+  <include name="snippets/nos.xml" />
+  <include name="snippets/nos-vayu.xml" />-->
+
+ </manifest>
