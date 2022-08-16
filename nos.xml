@@ -61,7 +61,6 @@
     <!-- caf -->
 
     <!-- external -->
-    <project path="external/exfatprogs" name="android_external_exfatprogs" remote="nos" revision="13" />
     <project path="external/faceunlock" name="external_faceunlock" remote="pixel-gitlab-self-hosted" />
     <project path="external/tinycompress" name="android_external_tinycompress" remote="nos" revision="13" />
 
